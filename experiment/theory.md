@@ -10,6 +10,7 @@ The three important states of triac operation are:<br>
 2) Reverse blocking state.<br>
 3) Conduction or on the state.<br>
 </p>
+<h4>The different States of Triac working (operation):</h4>
 
 <h4>Forward blocking state : (MT2 positive with respect to MT1):</h4>
 When a forward voltage less than the break-over voltage Vn is applied with the gate terminal open the triac can successfully block the forward voltage without getting turned on.<br>
@@ -20,6 +21,4 @@ When the reverse voltage is less than the breakover voltage Vpo with the gate op
 <h4>Conduction or ON state:</h4> 
 The triac is equivalent to two SCRs connected back to back. Therefore it is a bidirectional device that can conduct positive as well as negative half cycles of the supply voltage.<br>
 <h4>The gate current can be positive or negative.</h4> The forward and reverse break-over voltage reduces with an increase in the gate current.
-<img src="images/Screenshot 2023-02-09 132611.png"  >
-<h4>The different States of Triac working (operation):</h4
-
+<img src="images/Screenshot 2023-02-09 133019.png" height="300" width="300" >
