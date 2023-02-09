@@ -3,8 +3,7 @@
 The characteristics of the triac are as shown in Figure and they are similar to those of an SCR both in blocking and conducting states. The only difference is that the SCR conducts only in the forward direction (anode-cathode) whereas the triac conducts in both directions.<br>
 The other difference in the operation is the triggering mechanism. The triac can be turned on by applying either a positive or negative voltage to the gate with respect to terminal MT. Whereas the SCR can be triggered only by a positive gate signal.<br></p>
 
-![image](https://user-images.githubusercontent.com/118993534/217730571-7f6c1b51-a091-4470-8acc-d5fe5f4d0838.png)
-<p>
+<img src="images/Screenshot 2023-02-09 132611.png"  >
 <h4>The different States of Triac working (operation):</h4>
 The three important states of triac operation are:<br>
 1) Forward blocking state.<br>
