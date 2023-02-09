@@ -20,8 +20,6 @@ When the reverse voltage is less than the breakover voltage Vpo with the gate op
 <h4>Conduction or ON state:</h4> 
 The triac is equivalent to two SCRs connected back to back. Therefore it is a bidirectional device that can conduct positive as well as negative half cycles of the supply voltage.<br>
 <h4>The gate current can be positive or negative.</h4> The forward and reverse break-over voltage reduces with an increase in the gate current.
-
-
-![image](https://user-images.githubusercontent.com/118993534/217731425-5327cfdb-500f-4fce-a2df-b38a7a4d7e51.png)
-
+<img src="images/Screenshot 2023-02-09 132611.png"  >
+<h4>The different States of Triac working (operation):</h4
 
